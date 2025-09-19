@@ -51,5 +51,3 @@ El objetivo principal es brindar a **escuelas, universidades, ferias, centros cu
 5) Joshua Ivan Soza Cardoza 
 
 
-_(Nombres de los integrantes aquí)_  
-
