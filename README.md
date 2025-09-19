@@ -44,11 +44,11 @@ El objetivo principal es brindar a **escuelas, universidades, ferias, centros cu
 ## 👥 Equipo
 
 **ShowTronic Team – Hackathon Nicaragua 2025**  
--Jorge Alberto Padilla Tellez
--Elisa Sougey Aguirre Gonzales
--Claudio Fransisco Arana Fuetes
--Bryan Alexander Muñoz Davila 
--Joshua Ivan Soza Cardoza 
+1) Jorge Alberto Padilla Tellez
+2) Elisa Sougey Aguirre Gonzales
+3) Claudio Fransisco Arana Fuetes
+4) Bryan Alexander Muñoz Davila 
+5) Joshua Ivan Soza Cardoza 
 
 
 _(Nombres de los integrantes aquí)_  
